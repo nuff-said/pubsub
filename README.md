@@ -36,7 +36,7 @@ read //=> ['test-5', 'test-6', 'test-7'] the ids of the listeners that were fire
 ## Installation
 
 ```shell
-$ npm i @nuff-said/jsondb
+$ npm i @nuff-said/pubsub
 ```
 
 ## Contributing
@@ -48,4 +48,4 @@ optimization or even push a PR!
 
 This project uses the GPL-3.0 license.
 
-[repo-npm]: https://npm.im/@nuff-said/jsondb
+[repo-npm]: https://npm.im/@nuff-said/pubsub
