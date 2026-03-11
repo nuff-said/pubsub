@@ -1,0 +1,23 @@
+{
+  "name": "@nuff-said/pubsub",
+  "version": "1.0.0",
+  "description": "A minimal pubsub implementation",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "type": "module",
+  "keywords": [
+    "pubsub"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuff-said/jsondb.git"
+  },
+  "author": "Siddharth Shyniben <siddharth.muscat@gmail.com> (https://siddu.tech/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nuff-said/pubsub/issues"
+  },
+  "homepage": "https://github.com/nuff-said/pubsub#readme",
+}

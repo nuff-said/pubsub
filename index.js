@@ -1,0 +1,1 @@
+export default((a={},b=0)=>({pub:(c,...d)=>Object.entries(a).map(([k,v])=>k.split`-`[0]==c?(v(...d)==!1&&delete a[k],k):0).filter(a=>a),sub:(d,e)=>(a[k=d+--b]=e,k),unsub:k=>delete a[k]}))();
